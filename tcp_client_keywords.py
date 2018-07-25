@@ -21,27 +21,6 @@ sys.path.insert(0, library_directory)
 
 from resources.keywords.logging_lib import RobotLoggerClass
 
-################################################################################
-#===================== Copyright by Continental Automotive GmbH  ===============
-################################################################################
-#
-# Title        : trace_tcp_server_test_keywords.py
-#
-# Description  : File with all keywords required to test Trace TCP Server
-#                from a TCP client
-#
-# Environment  : n/a
-#
-# Responsible  : Javier Ochoa (uidj5418)
-#
-# Guidelines   : n/a
-#
-# Template name: n/a
-#
-# CASE-Tool    : Together
-#
-################################################################################
-
 __author__ = 'Javier Ochoa (uidj5418)'
 __version__ = 'See MKS'
 
